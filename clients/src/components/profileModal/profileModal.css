@@ -1,0 +1,35 @@
+.infoForm {
+    padding: 50px;
+}
+
+.inputs {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.inputs > input {
+    width: 60%;
+    margin: 10px;
+    cursor: pointer;
+}
+
+input:focus {
+    outline: none;
+}
+
+.files {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.files > input {
+    margin-left: 5px;
+}
+
+.infoButton {
+    border: none;
+    width: 70px;
+    height: 30px;
+}

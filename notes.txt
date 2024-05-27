@@ -1,0 +1,82 @@
+// 1 
+npm install react-router-dom in clients folder
+
+// 4
+create a file called .env inside clients folder
+
+// 17
+"proxy": "http://localhost:5000/api" in package.json in clients
+
+// 18
+npm install axios in clients
+
+// 19
+npm install cors in api folder
+
+// 20 
+create a folder called apiRequest inside src folder in clients
+
+// 21
+create postRequest.js and userRequest.js inside apiRequest folder
+
+// 30
+npm install timeago.js in clients folder
+
+// 47
+create a folder called context inside src folder
+
+// 48
+create AuthContext.js, AuthActions.js, AuthReducer.js inside context folder
+
+// 54
+create apiCalls.js inside src folder
+
+// 73
+npm install multer path in api folder
+
+// 74
+create a file called uploadRoute.js inside routes folder
+
+// 90
+create a folder called messenger inside pages folder
+
+// 91
+create messenger.css and Messenger.js inside messenger folder
+
+// 97
+create a folder called conversation inside components folder
+
+// 98
+create conversation.css and Conversation.jsx inside conversation folder
+
+// 103
+create a folder called message inside components folder
+
+// 104
+create message.css and Message.jsx inside message folder
+
+// 109
+create a folder called chatOnline inside components folder
+
+// 110
+create chatOnline.css and ChatOnline.jsx inside message folder
+
+// 115
+create a file called messageModel.js and conversationModel.js inside models folder in api
+
+// 118
+create a file called messageRoute.js.js and conversationRoute.js inside models folder in api
+
+// 148
+create a folder called socket inside lSocial folder
+
+// 149
+npm init in socket
+
+// 150
+npm install nodemon socket.io in socket folder and npm install socket.io-client in clients folder
+
+// 151
+create a file called index.js inside socket folder
+
+// 168
